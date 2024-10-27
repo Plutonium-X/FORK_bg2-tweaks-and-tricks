@@ -17,6 +17,7 @@ LANGUAGE ~Brazilian Portuguese~ ~portuguese~ ~tnt/tra_ee/portuguese/setup-%WEIDU
 LANGUAGE ~Russian~ ~russian~ ~tnt/tra_ee/russian/setup-%WEIDU_OS%.tra~
 LANGUAGE ~Spanish~ ~spanish~ ~tnt/tra_ee/spanish/setup-%WEIDU_OS%.tra~
 LANGUAGE ~Swedish~ ~swedish~ ~tnt/tra_ee/swedish/setup-%WEIDU_OS%.tra~
+LANGUAGE ~French~ ~french~ ~tnt/tra_ee/french/setup-%WEIDU_OS%.tra~
 
 
 // FAMILIARS
